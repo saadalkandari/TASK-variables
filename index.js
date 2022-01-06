@@ -10,11 +10,15 @@
  */
 
 // Part 1 answer 👇🏻 ...
+let fullName = "Saad Alkandari"
 
+let yearOfBirth = "1994"
 
+let hobby = "123"
 
+let funFact = "sleeping a lot"
 
-
+const image = "https://png.pngtree.com/png-clipart/20201208/original/pngtree-blue-zzz-dialog-png-image_5570415.jpg"
 
 /**
  * Part 2: String Interpolation
@@ -29,9 +33,11 @@
  * You can uncomment a line by removing the // at the start
  */
 
-// const fullNameString = `My name is ${}`;
-// const yearOfBirthString =
-// const hobbyString =
+const fullNameString = `My name is ${fullName}`;
+
+ const yearOfBirthString =`I am ${yearOfBirth- 2022} `
+ 
+const hobbyString = `My hobby is ${hobby}`
 
 
 
